@@ -28,6 +28,10 @@ html {
   margin-right: 0;
 }
 
+.staff .table {
+  margin-top: 10px;
+}
+
 iframe {
   width: 90%;
   height: 500px;
