@@ -61,6 +61,10 @@ iframe {
   }
 }
 
+#table-scroll {
+  overflow-x: scroll;
+}
+
 #footer {
   height: 70px;
 }
