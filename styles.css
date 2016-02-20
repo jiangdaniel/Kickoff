@@ -65,6 +65,10 @@ iframe {
   overflow-x: scroll;
 }
 
+#etch {
+  height: 100px;
+}
+
 #footer {
   height: 70px;
 }
