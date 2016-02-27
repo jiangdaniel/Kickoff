@@ -72,7 +72,7 @@ iframe {
   }
 }
 
-#table-scroll {
+.table-scroll {
   overflow-x: scroll;
 }
 
